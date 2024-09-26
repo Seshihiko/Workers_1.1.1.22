@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-IdleWork-1.1.22";
 const contentToCache = [
-    "Build/1.1.22.loader.js",
-    "Build/1.1.22.framework.js",
-    "Build/1.1.22.data",
-    "Build/1.1.22.wasm",
+    "Build/1.1.23.loader.js",
+    "Build/1.1.23.framework.js",
+    "Build/1.1.23.data",
+    "Build/1.1.23.wasm",
     "TemplateData/style.css"
 
 ];
